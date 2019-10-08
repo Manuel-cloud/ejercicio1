@@ -1,2 +1,2 @@
 # ejercicio1
-Manuel 
+Manuel Romero del Hombrebueno Gallego
